@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created uing typescript and Material UI. Data is retrieved from final space Api and is displayed in the form of a carousel. 
+
 
 ## Available Scripts
 
